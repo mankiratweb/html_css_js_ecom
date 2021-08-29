@@ -502,13 +502,10 @@ font-size: 1rem;
   
     
 
-  #menubar:hover> #sidenav ul{
- display: block;
-}
-
+  
  
 #menubar{
-    display: block;
+   
     position:absolute ;
   top: 70%;
   right: 0;

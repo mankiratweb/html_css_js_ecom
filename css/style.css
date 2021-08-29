@@ -528,7 +528,7 @@ animation: animate 5s ease infinite;
 
 #sidenav {
     
-    /* width: 250px;  */
+    width: 0px; 
     height: 100vh;
    position:absolute ;
        top: 0;

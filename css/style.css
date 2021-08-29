@@ -451,12 +451,12 @@ font-size: 1rem;
 @media only screen and (max-width:429px) {
 
     .nav2 .nav2-left,.nav2 .nav2-right{
-        display: none;
-    }
+        font-size: 8px;
+    }  
 
     
     .nav2 .nav2-center{
-        flex-basis: 100%;
+        /* flex-basis: 100%; */
     }
     .nav2 .nav2-center h1{
         font-size: 2rem;

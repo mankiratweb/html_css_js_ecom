@@ -505,7 +505,7 @@ font-size: 1rem;
   
  
 #menubar{
-   
+    display: block;
     position:absolute ;
   top: 70%;
   right: 0;

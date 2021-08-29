@@ -515,7 +515,7 @@ background-color: var(--primary);
 color: white;
 font-size: 2rem;
 padding: 20px 10px;
-animation: animate 2s ease infinite;
+animation: animate 1s ease infinite;
 }
 
 
